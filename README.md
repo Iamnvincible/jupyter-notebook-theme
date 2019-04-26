@@ -12,7 +12,7 @@ pip install --upgrade jupyterthemes
 
 - Change jupyter theme to grade3
   ```
-  jt - t grade3 -T -N
+  jt -t grade3 -T -N
   ```
 - Replace its default css file
   open your jupyter configuration path, for Windows users, it may locate at `username\.jupyter\custom`.
